@@ -2,4 +2,4 @@
 
 # built in unity 
 
-![title](Images/image.png)
+![Example](/Images/image.PNG)
